@@ -7,10 +7,10 @@ export function Footer() {
   return (
     <footer className="relative bg-bg-secondary text-text-primary border-t border-border-custom transition-colors duration-300">
       <div className="mx-auto max-w-7xl px-6 sm:px-8 py-16">
-        
+
         {/* Footer Top Grid */}
         <div className="grid grid-cols-1 md:grid-cols-5 gap-10">
-          
+
           {/* Brand/Socials Column */}
           <div className="md:col-span-2 flex flex-col items-start">
             <div className="flex items-center gap-3">
@@ -167,7 +167,7 @@ export function Footer() {
             <p className="mt-4 text-xs font-semibold text-text-secondary leading-5">
               Subscribe to get premium digital strategy briefs.
             </p>
-            
+
             <form onSubmit={(e) => e.preventDefault()} className="mt-5 flex gap-2">
               <input
                 type="email"
@@ -203,7 +203,7 @@ export function Footer() {
               rel="noopener noreferrer"
               className="hover:text-accent text-text-secondary/60 transition-colors font-bold"
             >
-              Kavtech
+              KavTech
             </a>
           </div>
           <div>
