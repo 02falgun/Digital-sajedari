@@ -1,0 +1,5 @@
+- [x] Locate where Portfolio placeholders are implemented
+- [x] Update PortfolioCard to accept and render real Unsplash/Pexels image URLs in the existing top image area (no layout changes)
+- [x] Wire four category images through PortfolioSection projects data
+- [x] Keep category pill + dimensions unchanged; ensure images have proper overlay/cover styling
+- [x] Run lint/build (if available) or TypeScript check
