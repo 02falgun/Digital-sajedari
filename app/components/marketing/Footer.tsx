@@ -195,6 +195,17 @@ export function Footer() {
           <div>
             © 2026 Digital Sajhedari. All rights reserved.
           </div>
+          <div className="normal-case tracking-normal text-text-secondary/40 font-semibold flex items-center gap-1">
+            <span>Powered by</span>
+            <a
+              href="https://kavyathakur.com.np/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="hover:text-accent text-text-secondary/60 transition-colors font-bold"
+            >
+              Kavtech
+            </a>
+          </div>
           <div>
             Consulting with Precision.
           </div>
